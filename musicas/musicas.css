@@ -9,7 +9,7 @@ body{
     color: white;
     user-select: none;
     overflow:hidden;
-    padding: 16px;
+    padding: 1px;
 }
 
 .container-login{
@@ -84,3 +84,6 @@ img {
     background: #000000;
 }
 
+p{
+    text-align: right;
+}

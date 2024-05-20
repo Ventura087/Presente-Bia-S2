@@ -11,7 +11,8 @@ enviar.addEventListener('click',() =>{
             preencha()
         }
 
-        if(nomeValor === "bia" ||
+        if(nomeValor === "beatriz " ||
+        nomeValor === "bia" ||
         nomeValor === "beatriz"){
             console.log("virificacao 1")
             if(

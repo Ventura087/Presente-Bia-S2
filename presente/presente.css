@@ -34,7 +34,7 @@ a{
 
 .button{
     background-color: #5568FE;
-    padding: 50px;
+    padding: 20px;
     border-radius: 10px;
     font-size: 20px;
     width: 300px;
@@ -52,4 +52,8 @@ a{
         padding: 20px;
         font-size: 16px;
     }
+}
+
+.aberta a{
+color: #3b4abe;
 }
